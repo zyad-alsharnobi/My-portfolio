@@ -36,7 +36,7 @@ hamburger.addEventListener("click", function () {
 
 
 var typed = new Typed(".job", {
-  strings: ["Data Scientitst", "ML Engineer"],
+  strings: ["Data Scientist", "ML Engineer","AI Engineer"],
   typeSpeed: 60,
   backSpeed: 60,
   loop: true,
